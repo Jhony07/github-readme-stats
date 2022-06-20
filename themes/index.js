@@ -194,7 +194,7 @@ const themes = {
   },
   "vision-friendly-dark": {
     title_color: "ffb000",
-    icon_color: "785ef0",
+    icon_color: "ffb000",
     text_color: "ffffff",
     bg_color: "000000",
   },
